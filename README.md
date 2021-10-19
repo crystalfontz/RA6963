@@ -1,7 +1,7 @@
 # RA6963 Demonstration Code
 This is Arduino sample code for any display that uses the RA6963-N/N1 controller.
 
-These displays are able to operate in Character mode as well as Graphical mode. In addition to their functional flexibility, they can also be operated at either 3.3V or 5V allowing a wider MCU usage and no requirements for a logic voltage shifter. Unless you're using 1.8V... Don't do that.
+These displays are able to operate in Character mode as well as Graphical mode. In addition to their functional flexibility, they can also be operated at either 3.3V or 5V allowing a wider MCU usage and no requirements for a logic voltage shifter. 
 
 
 ## Connection Guide
