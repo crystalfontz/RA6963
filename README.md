@@ -1,7 +1,8 @@
 # RA6963 Demonstration Code
 This is Arduino sample code for any display that uses the RA6963-N/N1 controller.
 
-These displays are able to operate in Character mode as well as Graphical mode. In addition to their functional flexibility, they can also be operated at either 3.3V or 5V allowing a wider MCU usage and no requirements for a logic voltage shifter. 
+These displays are able to operate in Character mode as well as Graphical mode.
+In addition to their functional flexibility, they can also be operated at either 3.3V or 5V allowing a wider MCU usage and no requirements for a logic voltage shifter. 
 
 
 
@@ -45,3 +46,12 @@ CFAG240128BTFHTZ
 CFAG240128BTMITZ
 CFAG240128BTTITZ
 CFAG240128BYYHTZ
+CFAG16080C1TFHTZ
+CFAG16080C1TMITZ
+CFAG16080C1YYHTZ
+CFAG24064ATTITZ
+CFAG24064ATMITZ
+CFAG160128E1STITZ
+
+For PNs: CFAG160128EYYHTZ, CFAG160128E1STITZ
+see: https://github.com/crystalfontz/CFAG160128E
