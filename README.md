@@ -4,6 +4,8 @@ This is Arduino sample code for any display that uses the RA6963-N/N1 controller
 These displays are able to operate in Character mode as well as Graphical mode. In addition to their functional flexibility, they can also be operated at either 3.3V or 5V allowing a wider MCU usage and no requirements for a logic voltage shifter. 
 
 
+
+
 ## Connection Guide
 ```
   ARD      | Port  | Display pin |  Function - 8080 Parallel   |
@@ -30,3 +32,16 @@ Data Lines
 -----------+-------+-------------+-----------------------------+
 ```
 
+
+Crystalfontz Part Numbers:
+CFAG128128I1TMIVZ
+CFAG160128BYYHTZ
+CFAG160128BTMITZ
+CFAG128128AYYHTZ
+CFAG24064AYYHTZ
+CFAG160128EYYHTZ
+CFAG12864DYYHTZ
+CFAG240128BTFHTZ
+CFAG240128BTMITZ
+CFAG240128BTTITZ
+CFAG240128BYYHTZ
