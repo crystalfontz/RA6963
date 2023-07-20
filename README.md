@@ -36,7 +36,7 @@ Data Lines
 
 Crystalfontz Part Numbers:
 [CFAG128128I1TMIVZ](https://www.crystalfontz.com/product/cfag128128i1tmivz-128x128-stn-blue-graphic-lcd-display), 
-[CFAG160128BYYHTZ](https://www.crystalfontz.com/product/cfag160128byyhtz-sunlight-readable-160x128-lcd), 
+[CFAG160128B1YYHTZ](https://crystalfontz.com/product/cfag160128b1yyhtz), 
 [CFAG160128BTMITZ](https://www.crystalfontz.com/product/cfag160128btmitz-graphical-160x128-display-module-lcd), 
 [CFAG128128AYYHTZ](https://www.crystalfontz.com/product/cfag128128ayyhtz-128x128-graphic-lcd), 
 [CFAG24064AYYHTZ](https://www.crystalfontz.com/product/cfag24064ayyhtz-240x64-lcd-module-graphical), 
